@@ -157,8 +157,8 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
-/*Footer*/
 
+/*Footer*/
 .text-footer p{
   font-size: 14px;
   
@@ -230,7 +230,6 @@ section:last-child {
 	#mainArea {
 		padding: 0 25px;
 	}
-
 	
 	.keySkills {
 	-moz-column-count:1;
